@@ -36,9 +36,30 @@
 
 <!--   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" /> -->
 <!--   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /> -->
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<!--   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> -->
   
 </p>
+
+
+<a href="https://github.com/mm-asraf/">
+  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=mm-asraf&theme=chartreuse-dark&layout=compact" alt="mm-asraf" />  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mm-asraf&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+
+<a href="https://github.com/mm-asraf/">
+<img align="center" height="280px" src="https://activity-graph.herokuapp.com/graph?  username=mm-asraf&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="mm-asraf" />  
+  
+</a>
+
+
+<a href="https://github.com/mm-asraf/">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm-asraf&theme=chartreuse-dark&langs_count=5&count_private=true"/>
+</a>
+
+<a href="https://github.com/mm-asraf/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mm-asraf&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
+</a>
+
 <h3>My projects</h3>
 <table>
   <thead align="center">
@@ -99,6 +120,8 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/mm-asraf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mahboob_asraf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mahboob-asraf/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://hashnode.com/@Mahboob786" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/hashnode-%3333ff.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
+
+<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/mm-asraf/count.svg"/></h3>
 
 ------------
 <h3 align="center">Thank You! For visiting My Profile :smiley:</h3>
