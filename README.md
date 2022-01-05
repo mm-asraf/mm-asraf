@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Nice to see you.</h1>
 
 
-<h4>Welcome to my page! </br> I'm Mahboob Asraf, A Aspiring Fullstack Developer from :house: <b>Jharkhand, India </b>, currently living in  <b>:european_castle: Giridih, India</b>. </h4>
+<h4>Welcome to my Github page! </br> I'm Mahboob Asraf, A Aspiring Fullstack Developer from :house: <b>Jharkhand, India </b>, currently living in  <b>:european_castle: Giridih, India</b>. </h4>
 
 <h3>Things I code with</h3>
 <p>
