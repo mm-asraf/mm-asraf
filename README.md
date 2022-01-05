@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/mm-asraf/">
-<img align="center" height="280px" src="https://activity-graph.herokuapp.com/graph?  username=mm-asraf&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="mm-asraf" />  
+<img align="center" height="280px"  src="https://activity-graph.herokuapp.com/graph?username=mm-asraf&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="mm-asraf" />  
   
 </a>
 
