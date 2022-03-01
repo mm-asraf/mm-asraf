@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/> I'm Mohd. Mahboob Asraf <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <h3><i>A passionate & Enthusiastic full-stack web developer</i></h3>
-<p>From Starting Learning Machine Design in the White Sheet to the running sets of logics in the javascript Engine,The journey of learning has been great.I am fascinating that how a chunks of code can do magics in the web engine & how it change the UI.I am more excited to be a part of those revolutionary ideas that will gonna  impact the billions of lives,That's why I joined coding bootcamp to accelerate my gears of intense learning desires in the Full Stack Web Development.</p>
+<p>From Starting Learning Machine Design in the White Sheet to the running sets of logics in the javascript Engine,The journey of learning has been great. I am fascinating that how a chunks of code can do magics in the web engine & how it change the UI. I am more excited to be a part of those revolutionary ideas that will gonna  impact the billions of lives,That's why I joined coding bootcamp to accelerate my gears of intense learning desires in the Full Stack Web Development.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -55,48 +55,6 @@
 
 
 
-<!-- <h3>My projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/MOHAMMADM-ASRAF/Tanishq-Web-Clone"><b>Tanishq-Web-Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MOHAMMADM-ASRAF/Tanishq-Web-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MOHAMMADM-ASRAF/Tanishq-Web-Clone?style?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/MOHAMMADM-ASRAF/Tanishq-Web-Clone?style?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MOHAMMADM-ASRAF/Tanishq-Web-Clone?style?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  
-   <tr>
-      <td><a href="https://github.com/MOHAMMADM-ASRAF/Purplle-Clone"><b>Purplle Web Clone </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MOHAMMADM-ASRAF/Purplle-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MOHAMMADM-ASRAF/Purplle-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/MOHAMMADM-ASRAF/Purplle-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MOHAMMADM-ASRAF/Purplle-Clone?style=flat-square&labelColor=343b41"/></td>
-   </tr>
-	  
-<!-- 	  
-    <tr>
-      <td><a href="https://github.com/MOHAMMADM-ASRAF/SugarCosmetics-Clone"><b>Sugar Cosmetics</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MOHAMMADM-ASRAF/SugarCosmetics-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MOHAMMADM-ASRAF/SugarCosmetics-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/MOHAMMADM-ASRAF/SugarCosmetics-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MOHAMMADM-ASRAF/SugarCosmetics-Clone?style=flat-square&labelColor=343b41"/></td>
-    </tr> 
- 
-
-	  
-  </tbody>
-</table>
- -->
 
 <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
 
