@@ -45,26 +45,17 @@
 </p>
 
 
-<a href="https://github.com/mm-asraf/">
-  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=mm-asraf&theme=chartreuse-dark&layout=compact" alt="mm-asraf" />  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mm-asraf&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-
-<a href="https://github.com/mm-asraf/">
-<img align="center" height="280px"  src="https://activity-graph.herokuapp.com/graph?username=mm-asraf&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="mm-asraf" />  
-  
-</a>
 
 
-<a href="https://github.com/mm-asraf/">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm-asraf&theme=chartreuse-dark&langs_count=5&count_private=true"/>
-</a>
+<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mm-asraf&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="asraf" height="139"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm-asraf&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="asraf" height="139" />
+</p>
 
-<a href="https://github.com/mm-asraf/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mm-asraf&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
-</a>
 
-<h3>My projects</h3>
+
+<!-- <h3>My projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -100,11 +91,28 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/MOHAMMADM-ASRAF/SugarCosmetics-Clone?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MOHAMMADM-ASRAF/SugarCosmetics-Clone?style=flat-square&labelColor=343b41"/></td>
     </tr> 
- -->
+ 
 
 	  
   </tbody>
 </table>
+ -->
+
+<h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
+
+<p>
+ 
+<a href="https://github.com/mm-asraf/snapchat-clone">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=snapchat-clone&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
+</a>
+
+
+
+<a href="https://github.com/mm-asraf/Purplle-Clone">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=Purplle-Clone&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
+</a>
+</p>
+
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://hashnode.com/post/cloning-of-e-commerce-website-tanishqcoin-cksxeehp10myukxs1eabcaqcc"> How You Should Structure your Plan as a Beginner to clone a Website</i></li>
