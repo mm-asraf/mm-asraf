@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/> I'm Mohd. Mahboob Asraf <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <h3><i>A Passionate & Enthusiastic Full-Stack Web Developer</i></h3>
-<p>From Starting Learning Machine Design in the White Sheet to the running sets of logics in the javascript Engine,The journey of learning has been great. I am fascinating that how a chunks of code can do magics in the web engine. I am more excited to be a part of those revolutionary ideas that will gonna  impact the billions of lives,That's why I joined coding bootcamp to accelerate my gears of intense learning desires in the Full Stack Web Development. </p>
+<p>From Starting Learning Machine Design in the White Sheet to the running sets of logics in the javascript Engine,The journey of learning has been great. I am fascinating that how a chunks of code can do magics. I am more excited to be a part of those revolutionary ideas that will gonna  impact the billions of lives,That's why I joined coding bootcamp to accelerate my gears of intense learning desires in the Full Stack Web Development. </p>
 
 <h3>Things I code with</h3>
 <p>
