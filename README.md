@@ -2,7 +2,7 @@
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-<h3><i>A Passionate & Enthusiastic Full-Stack Web Developer</i></h3>
+<!-- <h3><i>A Passionate & Enthusiastic Full-Stack Web Developer</i></h3> -->
 <p>From Starting Learning Machine Design in the White Sheet to the running sets of logics in the javascript Engine,The journey of learning has been great. I am fascinating that how a chunks of code can do magics. I am more excited to be a part of those revolutionary ideas that will gonna  impact the billions of lives,That's why I joined coding bootcamp to accelerate my gears of intense learning desires in the Full Stack Web Development. </p>
 
 <h3>Things I code with</h3>
