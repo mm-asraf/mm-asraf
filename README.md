@@ -10,7 +10,7 @@
 ##### . 🌱 I’m currently into full-stack Development with the use of MERN Stack.
 ##### . 📫 I'm currently working on Reactjs as a side Booster
 ##### . 🌱 Ask me anything about coding with javascript and nodejs
-##### . 💞️ I’m looking for full-time opportunity in frontend || backend || full-stack
+<!-- ##### . 💞️ I’m looking for full-time opportunity in frontend || backend || full-stack -->
 ##### . 📫 How to reach me mahboob.webdev.asraf@gmail.com
 
 <h3>Things I code with</h3>
