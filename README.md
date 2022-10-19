@@ -8,8 +8,8 @@
 ##### . 👋 Hi, I’m Mahboob Asraf
 ##### . 👀 I’m a 20 years old Software Developer
 ##### . 🌱 I’m currently into full-stack Development with the use of MERN Stack and Java Springboot.
-##### . 📫 I'm currently working on Reactjs as a side Booster
-##### . 🌱 Ask me anything about coding with javascript and nodejs
+##### . 📫 I'm currently working on Java Springboot & Reactjs as a side Booster
+##### . 🌱 Ask me anything about coding with java, javascript & nodejs
 <!-- ##### . 💞️ I’m looking for full-time opportunity in frontend || backend || full-stack -->
 ##### . 📫 How to reach me mahboob.webdev.asraf@gmail.com
 
