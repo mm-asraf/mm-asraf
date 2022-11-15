@@ -104,15 +104,12 @@
 
 
  
-<a href="https://github.com/mm-asraf/snapchat-clone">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=snapchat-clone&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
+<a href="https://github.com/mm-asraf/jwtauth">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=jwtauth&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
 </a>
 
 
 
-<a href="https://github.com/mm-asraf/Purplle-Clone">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=Purplle-Clone&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
-</a>
 </p>
 
 <h3>My latest posts</h3>
