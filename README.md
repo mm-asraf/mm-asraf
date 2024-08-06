@@ -6,9 +6,9 @@
 <!-- <p>From Starting Learning Machine Design  to the running sets of logics in the javascript Engine,The journey of learning has been great. I am fascinating about how a chunks of code can do magics. I am more excited to be a part of those revolutionary ideas that will gonna  impact the billions of lives,That's why I joined coding bootcamp to accelerate my gears of intense learning desires in the Full Stack Web Development. </p> -->
 
 ##### . 👋 Hi, I’m  Asraf
-##### . 👀 I’m a 21 years old Software Developer
+##### . 👀 I’m a 22 years old Software Developer
 ##### . 🌱 I’m currently into full-stack Development with the use of ReactJs and Java Springboot.
-##### . 📫 I'm currently working on Java Springboot & Reactjs as a side Booster
+##### . 📫 I'm currently working on variety of technologies like javascript,MERN, Java, Springboot,sql & Reactjs as a side Booster
 ##### . 🌱 Ask me anything about coding with java, javascript & springboot
 <!-- ##### . 💞️ I’m looking for full-time opportunity in frontend || backend || full-stack -->
 ##### . 📫 How to reach me mahboob.webdev.asraf@gmail.com
