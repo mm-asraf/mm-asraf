@@ -32,7 +32,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <!-- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /> -->
-<img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<!-- <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
 	<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-6f5166?style=for-the-badge&logo=Hibernate&logoColor=white" />
 	<img alt="MicroServices" src="https://img.shields.io/badge/MicroServices-6DB33F?style=for-the-badge&logo=MicroServices&logoColor=white" />
 <img alt="springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
