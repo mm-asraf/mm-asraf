@@ -98,7 +98,7 @@ and the engineering fundamentals.
 </div>
 
 ---
-
+<!--
 ## 🌱 Currently Exploring
 
 <div align="left">
@@ -115,7 +115,7 @@ and the engineering fundamentals.
 </div>
 
 ---
-
+-->
 ## 🔬 Open Source Projects
 
 ### 🔹 [JOL Memory Analyser](https://github.com/mm-asraf/jol-memory-analyser)
