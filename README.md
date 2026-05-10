@@ -1,151 +1,219 @@
-<h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/> I'm  Asraf <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=007FFF&lines=Full+Stack+Developer+%3A)" /> </h3>
-
-<!-- <h3><i>A Passionate & Enthusiastic Full-Stack Web Developer</i></h3> -->
-<!-- <p>From Starting Learning Machine Design  to the running sets of logics in the javascript Engine,The journey of learning has been great. I am fascinating about how a chunks of code can do magics. I am more excited to be a part of those revolutionary ideas that will gonna  impact the billions of lives,That's why I joined coding bootcamp to accelerate my gears of intense learning desires in the Full Stack Web Development. </p> -->
-
-##### . 👋 Hi, I’m  Asraf
-##### . 👀 I’m a 22 year old Software Developer With over 3 Years of Experience in Building Frontend and Backend Solutions.
-##### . 🌱 I’m currently into full-stack Development with the use of ReactJs and Java Springboot.
-##### . 📫 I'm currently working on variety of technologies like javascript,MERN, Java, Springboot,sql & Reactjs as a side Booster
-##### . 🌱 Ask me anything about coding with java, javascript & springboot
-<!-- ##### . 💞️ I’m looking for full-time opportunity in frontend || backend || full-stack -->
-##### . 📫 How to reach me mahboob.webdev.asraf@gmail.com
-
-<h3>Things I code with</h3>
-
-<h3 align="left">Languages :</h3>
-<div align="left">
- <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />	
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
- <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="SQL" src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white"/>
-
-
-<!--   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> -->
-</div>
-
-<h3 align="left">Tech Stacks :</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<!-- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /> -->
-<!-- <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
-	<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-6f5166?style=for-the-badge&logo=Hibernate&logoColor=white" />
-	<img alt="MicroServices" src="https://img.shields.io/badge/MicroServices-6DB33F?style=for-the-badge&logo=MicroServices&logoColor=white" />
-<img alt="springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-	<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-<img alt="postman" src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white"/>
-	<img alt="swagger" src="https://img.shields.io/badge/Swagger-6DB33F?style=for-the-badge&logo=Swagger&logoColor=white"/>
-	
-<img alt="styled components" src="https://img.shields.io/badge/Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-	
-	
-
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<!-- <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> -->
-<br>
-
-<!-- <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> -->
-<!-- <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/> -->
-</div>
-
-
-
-<h3 align="left">Databases :</h3>
-<div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<!--   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-
-
-<!-- <h3 align="left">Hosting :</h3>-->
-<!-- <div align="left"> -->
-<!--   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
-<!--   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/> -->
-<!--   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> -->
-<!-- </div><br/> -->
-
-
-
-<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mm-asraf&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="asraf" height="139"/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm-asraf&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="asraf" height="139" />
+<h1 align="center">Hi, I'm Asraf 👋</h1>
+<h3 align="center">
+Backend Engineer · Java & JVM · Distributed Systems 
+</h3>
+<p align="center">
+3+ years building scalable backend systems and distributed architectures from the ground up.<br/>
+currently going deep on JVM internals, memory models, concurrency, and GPU-accelerated computing,<br/>
+and the engineering fundamentals.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahboob-asraf/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mm-asraf" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mahboob_asraf" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:mahboob.webdev.asraf@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+---
 
+## ⚙️ Core Java & JVM
 
+<div align="left">
+<img alt="Java 8" src="https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Java 11" src="https://img.shields.io/badge/Java_11-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Java 14" src="https://img.shields.io/badge/Java_14-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Java 17" src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Java 21" src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="JVM Internals" src="https://img.shields.io/badge/JVM_Internals-ED8B00?style=for-the-badge"/>
+<img alt="Concurrency" src="https://img.shields.io/badge/Concurrency_%26_Multithreading-E76F00?style=for-the-badge"/>
+<img alt="Java Memory Model" src="https://img.shields.io/badge/Java_Memory_Model-E76F00?style=for-the-badge"/>
+<img alt="GC Tuning" src="https://img.shields.io/badge/GC_Tuning_(G1%2FZGC)-E76F00?style=for-the-badge"/>
+<img alt="JIT" src="https://img.shields.io/badge/JIT_Compilation-E76F00?style=for-the-badge"/>
+<img alt="Virtual Threads" src="https://img.shields.io/badge/Virtual_Threads_(Loom)-ED8B00?style=for-the-badge"/>
+<img alt="Sealed Types" src="https://img.shields.io/badge/Sealed_Types_%26_Records-ED8B00?style=for-the-badge"/>
+<img alt="JOL" src="https://img.shields.io/badge/JOL_(Object_Layout)-E76F00?style=for-the-badge"/>
+<img alt="JMH" src="https://img.shields.io/badge/JMH_Benchmarking-E76F00?style=for-the-badge"/>
+</div>
 
-<h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
+---
 
-<p>
-	
-<a href="https://github.com/mm-asraf/NordStrom">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=NordStrom&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
-</a>
+## 🚀 Backend & Distributed Systems
 
+<div align="left">
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img alt="Spring Cloud" src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="Spring Batch" src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="Spring AOP" src="https://img.shields.io/badge/Spring_AOP-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-6f5166?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img alt="AWS SQS" src="https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
+<img alt="Pub/Sub" src="https://img.shields.io/badge/Pub%2FSub_Messaging-4285F4?style=for-the-badge&logo=googlepubsub&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="Hazelcast" src="https://img.shields.io/badge/Hazelcast-FF6600?style=for-the-badge"/>
+<img alt="ZooKeeper" src="https://img.shields.io/badge/ZooKeeper-E76F00?style=for-the-badge"/>
+<img alt="Resilience4j" src="https://img.shields.io/badge/Resilience4j-6DB33F?style=for-the-badge"/>
+<img alt="Microservices" src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge"/>
+<img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
+</div>
+---
 
-<a href="https://github.com/mm-asraf/Realtime-chat-app">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=Realtime-chat-app&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
-</a>
+## 🗄️ Databases & Persistence
 
+<div align="left">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="OracleDB" src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+<img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+<img alt="JPQL" src="https://img.shields.io/badge/JPQL-6f5166?style=for-the-badge"/>
+<img alt="Caffeine Cache" src="https://img.shields.io/badge/Caffeine_Cache-6DB33F?style=for-the-badge"/>
+</div>
 
-<a href="https://github.com/mm-asraf/weather-web-app">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=weather-web-app&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
-</a>
+---
 
-<a href="https://github.com/mm-asraf/storiesBooks">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=storiesBooks&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
-</a>
+## ☁️ DevOps & Cloud
 
+<div align="left">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS_(EC2%2FECS%2FLambda)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+</div>
 
- 
-<a href="https://github.com/mm-asraf/jwtauth">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm-asraf&repo=jwtauth&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="asraf"/>
-</a>
+---
 
+## 🌱 Currently Exploring
 
+<div align="left">
+<img alt="DDD" src="https://img.shields.io/badge/Domain_Driven_Design-7B2D8B?style=for-the-badge"/>
+<img alt="CQRS" src="https://img.shields.io/badge/CQRS_%26_Event_Sourcing-7B2D8B?style=for-the-badge"/>
+<img alt="Apache Flink" src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img alt="JCuda" src="https://img.shields.io/badge/JCuda_(GPU_Computing)-76B900?style=for-the-badge"/>
+<img alt="Aparapi" src="https://img.shields.io/badge/Aparapi_%26_TornadoVM-76B900?style=for-the-badge"/>
+<img alt="Axon Framework" src="https://img.shields.io/badge/Axon_Framework-000000?style=for-the-badge"/>
+<img alt="Testcontainers" src="https://img.shields.io/badge/Testcontainers-01AAE4?style=for-the-badge"/>
+<img alt="Project Reactor" src="https://img.shields.io/badge/Project_Reactor-6DB33F?style=for-the-badge"/>
+<img alt="async-profiler" src="https://img.shields.io/badge/async--profiler-E76F00?style=for-the-badge"/>
+</div>
 
+---
+
+## 🔬 Open Source Projects
+
+### 🔹 [JOL Memory Analyser](https://github.com/mm-asraf/jol-memory-analyser)
+> Measures the **real memory cost** of Java data structures using JOL (Java Object Layout).
+
+Built to answer the question no tutorial answers: *"How much memory does this actually use?"*
+
+```
+int[1000]           →   4,016 bytes   (1.0x baseline)
+ArrayList<Integer>  →  20,040 bytes   (5.0x overhead)
+LinkedList<Integer> →  40,032 bytes   (10.0x overhead)
+HashMap<Int,Int>    →  72,256 bytes   (18.1x overhead)
+```
+
+**Tech:** Java 17 · JOL 0.17 · JUnit 5 · JVM agent · Maven Central
+<!--
+---
+
+### 🔹 Distributed Task Scheduler *(in progress)*
+> Fault-tolerant distributed task scheduler using ZooKeeper for leader election and Kafka for task distribution.
+
+- Handles 100K+ scheduled tasks across a multi-node cluster
+- Work-stealing algorithm for optimal load balancing
+- Exactly-once execution guarantee with automatic failover
+
+**Tech:** Java 17 · ZooKeeper · Apache Kafka · Spring Boot · Akka
+
+---
+
+### 🔹 Multi-Tenant Spring Boot Starter *(coming soon)*
+> Reusable library for multi-tenancy — header/JWT/subdomain tenant resolution, DataSource routing, per-tenant Liquibase migrations. Publishable to Maven Central.
+
+**Tech:** Spring Boot · HikariCP · Liquibase · PostgreSQL
+
+---
+
+### 🔹 Rate Limiter Library *(coming soon)*
+> Token bucket, leaky bucket, sliding window algorithms. Redis-backed distributed mode via Lua scripts. Spring Boot autoconfigure with `@RateLimit` annotation.
+
+**Tech:** Java 17 · Redis · Spring Boot Starter · Lua
+
+---
+-->
+
+## 🎨 Frontend
+
+<div align="left">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+---
+
+## 📚 What I Read
+
+| Book | Status |
+|------|--------|
+| Java Concurrency in Practice — Brian Goetz | ✅ Reading |
+| Java Performance — Scott Oaks | ✅ Reading |
+| Designing Data-Intensive Applications — Martin Kleppmann | 📋 Next |
+| Effective Java — Joshua Bloch | 📋 Queued |
+| Release It! — Michael Nygard | 📋 Queued |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mm-asraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mm-asraf&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://hashnode.com/post/cloning-of-e-commerce-website-tanishqcoin-cksxeehp10myukxs1eabcaqcc"> How You Should Structure your Plan as a Beginner to clone a Website</i></li>
-    
-   <li><a href="https://shwetamane13.hashnode.dev/cloning-the-purplle-website"> How to clone any website and their basic functionalities using DOM</i></li>
-    
-  
-  <li><a href="https://hashnode.com/post/cloning-of-e-commerce-website-sugarcosmetic-mvp-clone-cku8cpsau0hn6szs15j8bcy53"><b>Pro Tips To work in a team as a Beginner and how you should think before cloning any website</b></a><br/></li>
-  
-  
-  
-</ul>
+---
 
+## 💭 Engineering Philosophy
 
+```java
+// Current roadmap — 24 months to expert-level Java
+while (onRoadmap) {
+    learnInternals();      // not just APIs — how it actually works
+    buildAndMeasure();     // JMH benchmarks, JOL measurements, real numbers
+    writeOpenSource();     // publish what you build
+    teachWhatYouLearn();   // blog, LinkedIn, GitHub
+    repeat();
+}
 
+// Target state
+assert jvmKnowledge  == EXPERT;
+assert distributedSystemsDepth == PRODUCTION_GRADE;
+assert openSourceContributions >= 3;
+```
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/mm-asraf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mahboob_asraf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mahboob-asraf/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://hashnode.com/@Mahboob786" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/hashnode-%3333ff.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+---
+
+<p align="center">
+  <i>
+    Open to Senior Backend Engineer roles focused on distributed systems and high-throughput Java engineering.
+  </i>
 </p>
-
-<h3 align="center">Visitor's Count :  <img align="center" src="https://profile-counter.glitch.me/mm-asraf/count.svg"/></h3>
-
-------------
-<h3 align="center">Thank You! For visiting My Profile :smiley:</h3>
-
